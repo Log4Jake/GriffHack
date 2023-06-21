@@ -1,5 +1,5 @@
 # Griff-Hack
-****I am not liable for any misuse of this code.***A working hack for hacking cloud games on scratch, this project is particularly focused on Griffpatch's Minecraft-ish project.
+***I am not liable for any misuse of this code.***A working hack for hacking cloud games on scratch, this project is particularly focused on Griffpatch's Minecraft-ish project.
 
 ## Instructions
 ### Step 1 - Cloning/remixing
