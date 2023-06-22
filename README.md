@@ -7,7 +7,7 @@ Start by going to Griffpatch's Original [Minecraft-ish](https://scratch.mit.edu/
 ### Step 2 - Populating the variables
 Open the project and click the ![image](https://github.com/Log4Jake/GriffHack/assets/62357760/d81a2ced-7a68-4528-8723-50605a2acd71) to start the project. This is to populate the cloud variables in the project. ***You will need to do the same thing later on the Turbowarp project.***
 ### Step 3 - Editing the python code
-• [Download]([https://github.com/b3f4ce1a-de5c-490b-9e0a-3c6deba7c0f5](https://github.com/Log4Jake/GriffHack/archive/refs/heads/main.zip)) and extract this repo. Edit the griff-hack.py file with your favorite text/code editor.
+• [Download](https://github.com/b3f4ce1a-de5c-490b-9e0a-3c6deba7c0f5](https://github.com/Log4Jake/GriffHack/archive/refs/heads/main.zip) and extract this repo. Edit the griff-hack.py file with your favorite text/code editor.
 
 • Start by adding your username
 
