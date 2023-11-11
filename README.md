@@ -37,6 +37,6 @@ Open the project and click the ![image](https://github.com/Log4Jake/GriffHack/as
 
 • Run the python script a few times to start the hack.
 
-• You should be able to fly on the turbowarp by hitting the `↑` 2 or 3 times quickly. You can pick blocks by hitting `E`. He also has some custom chat messages. `F` will let you give a stack of items to the highlighted slot.
+• You should be able to fly on the turbowarp by hitting the `↑` 2 or 3 times quickly. You can pick blocks by hitting `E`. He also has some custom chat messages. `F` will let you give a stack of items to the highlighted slot. `L` is debug menu
 
 • On the scratch project you will be able to see yourself (griffpatch) but on turbowarp you cannot see players or their data. You can place blocks and fly and they will appear on scratch.
