@@ -27,7 +27,7 @@ Open the project and click the ![image](https://github.com/Log4Jake/GriffHack/as
 
 • Go to the edit tab and click change username.
 
-• Change the username to `griffpatch`
+• Change the username to `Griffpatch`
 
 • Click the ![image](https://github.com/Log4Jake/GriffHack/assets/62357760/d81a2ced-7a68-4528-8723-50605a2acd71) to start the project. This is to populate the cloud variables in the project.
 
